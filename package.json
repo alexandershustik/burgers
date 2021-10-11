@@ -36,6 +36,11 @@
 	},
 	"dependencies": {
 		"gulp-pug": "^5.0.0",
-		"jquery": "^3.6.0"
+		"jquery": "^3.6.0",
+		"nth-check": "^2.0.1",
+		"semver-regex": "^4.0.2",
+		"set-value": "^4.1.0",
+		"tar": "^6.1.11",
+		"trim-newlines": "^4.0.2"
 	}
 }
