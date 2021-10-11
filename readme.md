@@ -1,6 +1,6 @@
 <!-- @format -->
 
-<h1>OptimizedHTML 5</h1>
+<h1>OptimizedHTML 51</h1>
 <p>Lightweight production-ready Gulp starter.</p>
 
 <h3>Little changes. Included pug and renamed folders</h3>
